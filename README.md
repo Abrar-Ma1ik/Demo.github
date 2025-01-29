@@ -1,2 +1,2 @@
 # Demo.github
-Ths is Demo for Git and Github
+Ths is Demo for Git and Github.
